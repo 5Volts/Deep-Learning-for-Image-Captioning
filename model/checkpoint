@@ -1,0 +1,2 @@
+model_checkpoint_path: "ImageCap-243"
+all_model_checkpoint_paths: "ImageCap-243"
